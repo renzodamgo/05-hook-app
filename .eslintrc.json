@@ -18,6 +18,7 @@
 		"quotes": ["error", "double"],
 		"semi": ["error", "always"],
 		"react/react-in-jsx-scope": "off",
-		"prettier/prettier": ["error"]
+		"object-curly-spacing": ["error", "always"],
+		"prettier/prettier": ["warn"]
 	}
 }
